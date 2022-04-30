@@ -1,10 +1,6 @@
 <div align="center">
-    My fork of
     <h1>Auto Clicker for macOS</h1>
-    <p>Built by someone more knowlagable about Swift than I.</p>
 </div>
-
-I will study Swift for this projecct (It's a decendant of C, right?). I am passionate about its further development.
 
 Distributed under the MIT License. See [LICENSE](https://github.com/othyn/macos-auto-clicker/blob/main/LICENSE) for more information.
 
